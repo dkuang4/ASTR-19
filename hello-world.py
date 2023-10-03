@@ -4,10 +4,10 @@
 def PrintHelloWorld():
 	print ("Hello, World!")
 
-#This defines the main function of the program
+#This defines the main() function of the program
 def main():
 	PrintHelloWorld()
 
-#This runs the main function
+#This executes first when program is run
 if __name__ == '__main__':
 	main()
